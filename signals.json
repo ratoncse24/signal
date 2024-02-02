@@ -1,0 +1,104 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 2,
+      "title": "Gold Sell Now",
+      "tp_1": "2022",
+      "tp_2": "2033",
+      "stop_loss": "2055",
+      "signal_status": "Closed",
+      "profit_status": "Profit",
+      "profit_pips": "+55 pips",
+      "created_at": "2024-01-29T19:28:00.000000Z",
+      "updated_at": "2024-01-29T19:28:48.000000Z"
+    },
+    {
+      "id": 3,
+      "title": "Gold Sell Now",
+      "tp_1": "2022",
+      "tp_2": "2033",
+      "stop_loss": "2055",
+      "signal_status": "Closed",
+      "profit_status": "Profit",
+      "profit_pips": "+55 pips",
+      "created_at": "2024-01-29T19:28:00.000000Z",
+      "updated_at": "2024-01-29T19:28:48.000000Z"
+    },
+    {
+      "id": 4,
+      "title": "Gold Sell Now",
+      "tp_1": "2022",
+      "tp_2": "2033",
+      "stop_loss": "2055",
+      "signal_status": "Closed",
+      "profit_status": "Profit",
+      "profit_pips": "+55 pips",
+      "created_at": "2024-01-29T19:28:00.000000Z",
+      "updated_at": "2024-01-29T19:28:48.000000Z"
+    },
+    {
+      "id": 1,
+      "title": "Gold buy now (2033-2030)",
+      "tp_1": "2035",
+      "tp_2": "2037",
+      "stop_loss": "2027",
+      "signal_status": "Active",
+      "profit_status": "Loss",
+      "profit_pips": "-25 pips",
+      "created_at": "2024-01-29T19:24:00.000000Z",
+      "updated_at": "2024-01-29T19:53:52.000000Z"
+    },
+    {
+      "id": 5,
+      "title": "Gold buy now (2033-2030)",
+      "tp_1": "2035",
+      "tp_2": "2037",
+      "stop_loss": "2027",
+      "signal_status": "Active",
+      "profit_status": "Open",
+      "profit_pips": null,
+      "created_at": "2024-01-29T19:24:00.000000Z",
+      "updated_at": "2024-01-29T19:27:53.000000Z"
+    },
+    {
+      "id": 6,
+      "title": "Gold buy now (2033-2030)",
+      "tp_1": "2035",
+      "tp_2": "2037",
+      "stop_loss": "2027",
+      "signal_status": "Active",
+      "profit_status": "Open",
+      "profit_pips": null,
+      "created_at": "2024-01-29T19:24:00.000000Z",
+      "updated_at": "2024-01-29T19:27:53.000000Z"
+    }
+  ],
+  "first_page_url": "http://127.0.0.1:8000/api/signals?page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "http://127.0.0.1:8000/api/signals?page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "active": false
+    },
+    {
+      "url": "http://127.0.0.1:8000/api/signals?page=1",
+      "label": "1",
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "http://127.0.0.1:8000/api/signals",
+  "per_page": 10,
+  "prev_page_url": null,
+  "to": 6,
+  "total": 6
+}
